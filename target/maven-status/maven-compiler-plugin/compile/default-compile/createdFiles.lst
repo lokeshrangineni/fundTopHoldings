@@ -1,0 +1,8 @@
+com/loki/funprojects/fundTopHoldings/bean/Fund.class
+com/loki/funprojects/fundTopHoldings/service/YahooSnoopService.class
+com/loki/funprojects/fundTopHoldings/service/SnoopService.class
+com/loki/funprojects/fundTopHoldings/bean/TopHolding.class
+com/loki/funprojects/fundTopHoldings/AppBeanConfig.class
+com/loki/funprojects/fundTopHoldings/exception/HtmlParserException.class
+com/loki/funprojects/fundTopHoldings/FundSnooperApplication.class
+com/loki/funprojects/fundTopHoldings/rest/FundRestService.class
